@@ -1,0 +1,4 @@
+BOOKMYSHOW LIST LINK:
+https://in.bookmyshow.com/national-capital-region-ncr/cinemas
+HERE-API API_KEY:
+[YOURAPIKEY]
